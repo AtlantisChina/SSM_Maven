@@ -16,7 +16,7 @@
         <!-- log4j日志包版本号 -->
         <log4j.version>1.2.12</log4j.version>
         <!-- mysql驱动版本号 -->
-        <mysql.version>5.1.6</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <!-- mybatis版本号 -->
         <mybatis.version>3.4.6</mybatis.version>
         <!-- spring版本号 -->
